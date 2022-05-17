@@ -9,13 +9,22 @@ const dotfiles = [
         tags: ['openbox', 'lxde', 'xfce4-panel']
     },
     {
+        title: "Your cool neighbor's living room",
+        author: 'neeasade',
+        link: 'http://noriceno.life',
+        reddit: 'https://old.reddit.com/r/unixporn/comments/hos5rp/bspwm_your_cool_neighbors_living_room/',
+        description: 'First rice for i3-gaps ',
+        image: "assets/codeheister's-dotfiles.png",
+        tags: ['i3-gaps', 'rofi', 'nvim', 'ranger', 'dunst', 'flameshot']
+    },
+    {
         title: "CodeHeister's Dotfiles",
         author: 'CodeHeister',
         link: 'https://github.com/CodeHeister/dotfiles',
         reddit: 'https://www.reddit.com/r/unixporn/comments/sjroxe/i3gaps_my_onedarknord_rice_after_a_month_what_do/?utm_source=share&utm_medium=web2x&context=3',
         description: 'First rice for i3-gaps ',
-        image: "assets/codeheister's-dotfiles.png",
-        tags: ['i3-gaps', 'rofi', 'nvim', 'ranger', 'dunst', 'flameshot']
+        image: "https://i.redd.it/uivvseeo42a51.png",
+        tags: ['bspwm', 'emacs', 'rofi', 'lemonbar']
     },
     {
         title: "Elena's Dotfiles",
